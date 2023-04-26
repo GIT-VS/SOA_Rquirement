@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#31D863</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>SPRING SOA ACCOUNTS</label>
+    <navType>Standard</navType>
+    <tabs>SPRING_SOA_REQUIREMENT</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>SPRING_SOA_ACCOUNTS_UtilityBar</utilityBar>
+</CustomApplication>
